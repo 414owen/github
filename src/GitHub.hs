@@ -55,6 +55,7 @@ module GitHub (
     -- * Delete a Repository Subscription
     watchersForR,
     reposWatchedByR,
+    unwatchRepoR,
 
     -- * Gists
     -- | See <https://developer.github.com/v3/gists/>
